@@ -2,7 +2,7 @@
 
 #### The most interesting part of the code that suggested that we need MD5 collision is shown below. Also note how the application allows us passing of binary content as base64 encoded input.
 
-Image of the code
+![Image of the code](./interesting-md5.png)
 
 * Idea is that anything after the comment `#` should be ignored. We can use this place to come up with random shit after the comment marker such that two different commands before the `#` will still make the same MD5 hash.
 
@@ -34,4 +34,4 @@ Input 2: MD5 `5453da2c4e406a17abd6e8c8f22fa374 (SAME as the first!)`
 
 2. Send the second input as base64 to get the flag.
 
-Win Image goes here.
+![Win Image](./md5-is-dead.png)

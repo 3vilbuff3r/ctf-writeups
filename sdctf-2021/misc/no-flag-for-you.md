@@ -4,4 +4,4 @@
 
 * After that it was a matter of just using one of the classis tricks to leak the first line of the file.
 
-Image goes here
+![Image No flag for you](./no-flag-for-you.png)

@@ -2,7 +2,7 @@
 
 #### From the name gets and the js file, it's clear that we need to trigger buffer overflow on the native binary in order to get the flag. After some effort, I came up with this request to extract the flag.
 
-Image goes here
+![Buffer overflow triggered](./prime-bof-web-gets.png)
 
 * The rational behind this request is to bypass the length check by sending the parameter twice. As in 
 

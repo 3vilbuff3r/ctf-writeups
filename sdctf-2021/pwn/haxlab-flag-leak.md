@@ -6,4 +6,4 @@
 * Digging deeper, the type that holds the flag is a child class of builtin `str` class.
 * This means we can simply get the copy of the flag using the slice implementation of `str`
 
-Image goes here
+![Haxlab Leak Image](haxlab-leak.png)
